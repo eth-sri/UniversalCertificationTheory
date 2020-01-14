@@ -35,7 +35,7 @@ n(B) is a subset of f(B)±d.
 Code for Construction
 ---------------------
 
-![TODO Better Picture Here](https://gitlab.inf.ethz.ch/mirman/universalprovableapproximation/raw/master/media/overview.png)
+![Levels](https://github.com/eth-sri/UniversalCertificationTheory/blob/master/media/overview.png?raw=true)
 
 Our paper proves the above theorem by constructing such a network n, using the fact that f(B) exists.
 A visualization of the components of the resulting network is shown above.
